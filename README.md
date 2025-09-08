@@ -1,2 +1,2 @@
-# MLB.TV
+# mihomo_rules
 mihomo_rules
