@@ -1,0 +1,17 @@
+payload:
+- DOMAIN-SUFFIX,disneyplus.com
+- DOMAIN-SUFFIX,playback-certs.bamgrid.com
+- DOMAIN-SUFFIX,appconfigs.disney-plus.net
+- DOMAIN-SUFFIX,bamgrid.com
+- DOMAIN-SUFFIX,cdn.registerdisney.go.com
+- DOMAIN-SUFFIX,cnbl-cdn.bamgrid.com
+- DOMAIN-SUFFIX,disney.api.edge.bamgrid.com
+- DOMAIN-SUFFIX,disney.images.edge.bamgrid.com
+- DOMAIN-SUFFIX,disney.playback.edge.bamgrid.com
+- DOMAIN-SUFFIX,disney.connections.edge.bamgrid.com
+- DOMAIN-SUFFIX,disney.content.edge.bamgrid.com
+- DOMAIN-SUFFIX,static-assets.bamgrid.com
+- DOMAIN-SUFFIX,pcs.bamgrid.com
+- DOMAIN-SUFFIX,vod-bgc-sa-east-1.media.dssott.com
+- DOMAIN-SUFFIX,prod-static.disney-plus.net
+- DOMAIN-SUFFIX,prod-ripcut-delivery.disney-plus.net 
