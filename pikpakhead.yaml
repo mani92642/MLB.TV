@@ -5,4 +5,6 @@ payload:
 - DOMAIN-SUFFIX,mypikpak.com
 - DOMAIN-SUFFIX,04504926511693824.ingest.sentry.ic
 - DOMAIN-SUFFIX,sg-thumbnail-drive.mypikpak.com
-
+- DOMAIN-SUFFIX,config.mypikpak.com
+- DOMAIN-SUFFIX,access.mypikpak.com
+- DOMAIN-SUFFIX,res-etl-ssl.mypikpak.com
