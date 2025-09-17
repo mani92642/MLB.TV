@@ -1,2 +1,8 @@
 payload:
+- DOMAIN-SUFFIX,rcv5-sp.mypikpak.com
+- DOMAIN-SUFFIX,api-drive.mypikpak.com
+- DOMAIN-SUFFIX,user.mypikpak.com
 - DOMAIN-SUFFIX,mypikpak.com
+- DOMAIN-SUFFIX,04504926511693824.ingest.sentry.ic
+- DOMAIN-SUFFIX,sg-thumbnail-drive.mypikpak.com
+
