@@ -1,10 +1,10 @@
 payload:
-- DOMAIN-SUFFIX,rcv5-sp.mypikpak.com
-- DOMAIN-SUFFIX,api-drive.mypikpak.com
-- DOMAIN-SUFFIX,user.mypikpak.com
-- DOMAIN-SUFFIX,mypikpak.com
-- DOMAIN-SUFFIX,04504926511693824.ingest.sentry.ic
-- DOMAIN-SUFFIX,sg-thumbnail-drive.mypikpak.com
-- DOMAIN-SUFFIX,config.mypikpak.com
-- DOMAIN-SUFFIX,access.mypikpak.com
-- DOMAIN-SUFFIX,res-etl-ssl.mypikpak.com
+- DOMAIN,rcv5-sp.mypikpak.com
+- DOMAIN,api-drive.mypikpak.com
+- DOMAIN,user.mypikpak.com
+- DOMAIN,mypikpak.com
+- DOMAIN,04504926511693824.ingest.sentry.ic
+- DOMAIN,sg-thumbnail-drive.mypikpak.com
+- DOMAIN,config.mypikpak.com
+- DOMAIN,access.mypikpak.com
+- DOMAIN,res-etl-ssl.mypikpak.com
