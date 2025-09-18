@@ -7,4 +7,4 @@ payload:
 - DOMAIN,geolocation.onetrust.com
 - DOMAIN,mlbadvancedmedialp.tt.omtrdc.net
 - DOMAIN,mlb.com
-- DOMAIN,mlb.tv
+- DOMAIN-SUFFIX,mlb.tv
