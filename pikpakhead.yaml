@@ -1,9 +1,2 @@
 payload:
-- DOMAIN,rcv5-sp.mypikpak.com
-- DOMAIN,api-drive.mypikpak.com
-- DOMAIN,user.mypikpak.com
-- DOMAIN,04504926511693824.ingest.sentry.ic
-- DOMAIN,sg-thumbnail-drive.mypikpak.com
-- DOMAIN,config.mypikpak.com
-- DOMAIN,access.mypikpak.com
-- DOMAIN,res-etl-ssl.mypikpak.com
+- DOMAIN,dl-z01a-0026.mypikpak.com
