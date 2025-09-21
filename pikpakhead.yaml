@@ -1,2 +1,2 @@
 payload:
-- DOMAIN-REGEX,^dl[-a-zA-Z0-9]*\.mypikpak\.com$
+- DOMAIN-REGEX,^dl[a-zA-Z0-9-]*\.mypikpak\.com$
