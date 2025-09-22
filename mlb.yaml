@@ -8,3 +8,4 @@ payload:
 - DOMAIN-SUFFIX,mlbinfra.com
 - DOMAIN-SUFFIX,mlbstatic.com
 - DOMAIN-SUFFIX,hcaptcha.com
+- DOMAIN-KEYWORD,mlb
