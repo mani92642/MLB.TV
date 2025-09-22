@@ -1,8 +1,8 @@
 payload:
-- DOMAIN,cdn.contentful.com
-- DOMAIN,images.ctfassets.net
-- DOMAIN,geolocation.onetrust.com
-- DOMAIN,mlbadvancedmedialp.tt.omtrdc.net
+- DOMAIN-SUFFIX,contentful.com
+- DOMAIN-SUFFIX,ctfassets.net
+- DOMAIN-SUFFIX,onetrust.com
+- DOMAIN-SUFFIX,tt.omtrdc.net
 - DOMAIN-SUFFIX,mlb.com
 - DOMAIN-SUFFIX,mlb.tv
 - DOMAIN-SUFFIX,mlbinfra.com
