@@ -1,10 +1,10 @@
 payload:
-- DOMAIN,mlbstatic.com
-- DOMAIN,mlbinfra.com
 - DOMAIN,cdn.contentful.com
-- DOMAIN,hcaptcha.com
 - DOMAIN,images.ctfassets.net
 - DOMAIN,geolocation.onetrust.com
 - DOMAIN,mlbadvancedmedialp.tt.omtrdc.net
 - DOMAIN-SUFFIX,mlb.com
 - DOMAIN-SUFFIX,mlb.tv
+- DOMAIN-SUFFIX,mlbinfra.com
+- DOMAIN-SUFFIX,mlbstatic.com
+- DOMAIN-SUFFIX,hcaptcha.com
