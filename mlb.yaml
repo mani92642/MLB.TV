@@ -6,5 +6,5 @@ payload:
 - DOMAIN,images.ctfassets.net
 - DOMAIN,geolocation.onetrust.com
 - DOMAIN,mlbadvancedmedialp.tt.omtrdc.net
-- DOMAIN,mlb.com
+- DOMAIN-SUFFIX,mlb.com
 - DOMAIN-SUFFIX,mlb.tv
