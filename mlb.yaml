@@ -1,4 +1,5 @@
 payload:
+- DOMAIN-KEYWORD,mlb
 - DOMAIN-SUFFIX,contentful.com
 - DOMAIN-SUFFIX,ctfassets.net
 - DOMAIN-SUFFIX,onetrust.com
@@ -9,6 +10,5 @@ payload:
 - DOMAIN-SUFFIX,mlbstatic.com
 - DOMAIN-SUFFIX,hcaptcha.com
 - DOMAIN-SUFFIX,siteintercept.qualtrics.com
-- DOMAIN-KEYWORD,mlb
 - DOMAIN,mlb.sc.omtrdc.net
 - DOMAIN,mlb-content.storage.googleapis.com
