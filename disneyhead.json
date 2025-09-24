@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_regex": [
+        "^live-[a-zA-Z0-9-]*\.media\.dssott\.com$",
+        "^linear[a-zA-Z0-9-]*\.media\.dssott\.com$"
+      ],
+              "domain_keyword": [
+          "disney"
+        ]
+    }
+  ]
+}
