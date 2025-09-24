@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "contentful.com",
+        "ctfassets.net",
+        "onetrust.com",
+        "tt.omtrdc.net",
+        "mlb.com",
+        "mlb.tv",
+        "mlbinfra.com",
+        "mlbstatic.com",
+        "hcaptcha.com",
+        "siteintercept.qualtrics.com",
+        "mlb.sc.omtrdc.net",
+        "mlb-content.storage.googleapis.com" 
+      ],
+      "domain_keyword": [
+          "mlb"
+        ]
+    }
+  ]
+}
