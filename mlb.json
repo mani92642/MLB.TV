@@ -15,10 +15,7 @@
         "siteintercept.qualtrics.com",
         "mlb.sc.omtrdc.net",
         "mlb-content.storage.googleapis.com" 
-      ],
-      "domain_keyword": [
-          "mlb"
-        ]
+      ]
     }
   ]
 }
