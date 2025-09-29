@@ -3,7 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "france.tv" 
+        "france.tv",
+        "francetelevisions.fr",
+        "francetv.fr"
       ],
       "domain_keyword": [
           "france"
