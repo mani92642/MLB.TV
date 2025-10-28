@@ -1,0 +1,4 @@
+payload:
+- DOMAIN,https://dns.adguard-dns.com/dns-query
+- DOMAIN,https://doh.umbrella.com/dns-query
+- DOMAIN,https://dns11.quad9.net/dns-query
