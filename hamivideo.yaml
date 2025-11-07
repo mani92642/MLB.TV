@@ -7,4 +7,4 @@ payload:
     - DOMAIN,static-hamivideo.cdn.hinet.net
     - DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
     - DOMAIN,weblive-hamivideo.cdn.hinet.net
-    - DOMAIN-SUFFIX,cdn.hinet.net
+    - DOMAIN,webvodad-hamivideo.cdn.hinet.net
