@@ -1,3 +1,5 @@
 payload:
 - DOMAIN-REGEX,^live-[a-zA-Z0-9-]*\.media\.dssott\.com$
 - DOMAIN-REGEX,^linear[a-zA-Z0-9-]*\.media\.dssott\.com$
+- DOMAIN-REGEX,^[a-zA-Z0-9-]*.media.dssott.com$
+- DOMAIN-REGEX,^[a-zA-Z0-9-]*.dssedge.com$
