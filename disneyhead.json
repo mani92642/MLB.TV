@@ -4,8 +4,7 @@
     {
       "domain_regex": [
         "^live-[a-zA-Z0-9-]*.media.dssott.com$",
-        "^linear[a-zA-Z0-9-]*.media.dssott.com$",
-        "^vod[a-zA-Z0-9-]*.media.dssott.com$"
+        "^linear[a-zA-Z0-9-]*.media.dssott.com$"
         ]
     }
   ]
