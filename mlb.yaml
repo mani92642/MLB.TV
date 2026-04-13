@@ -1,3 +1,4 @@
+
 payload:
 - DOMAIN-KEYWORD,mlb
 - DOMAIN-SUFFIX,contentful.com
@@ -19,3 +20,5 @@ payload:
 - DOMAIN-SUFFIX,scorecardresearch.com
 - DOMAIN-SUFFIX,bamgrid.com
 - DOMAIN-SUFFIX,dpm.demdex.net
+- DOMAIN-SUFFIX,privacymanager.io
+- DOMAIN-SUFFIX,scorecardresearch.com
