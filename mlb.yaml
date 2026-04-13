@@ -24,3 +24,4 @@ payload:
 - DOMAIN-SUFFIX,scorecardresearch.com
 - DOMAIN-SUFFIX,mgln.ai
 - DOMAIN-SUFFIX,adtidy.org
+- DOMAIN,time.cloudflare.com
