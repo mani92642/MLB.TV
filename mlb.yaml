@@ -12,3 +12,8 @@ payload:
 - DOMAIN-SUFFIX,siteintercept.qualtrics.com
 - DOMAIN-SUFFIX,mlb.sc.omtrdc.net
 - DOMAIN-SUFFIX,mlb-content.storage.googleapis.com
+- DOMAIN-SUFFIX,connextra.com
+- DOMAIN-SUFFIX,doubleclick.net
+- DOMAIN-SUFFIX,googlesyndication.com
+- DOMAIN-SUFFIX,doubleclick.net
+- DOMAIN-SUFFIX,scorecardresearch.com
