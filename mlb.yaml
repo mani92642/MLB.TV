@@ -1,4 +1,3 @@
-
 payload:
 - DOMAIN-KEYWORD,mlb
 - DOMAIN-SUFFIX,contentful.com
@@ -13,15 +12,4 @@ payload:
 - DOMAIN-SUFFIX,siteintercept.qualtrics.com
 - DOMAIN-SUFFIX,mlb.sc.omtrdc.net
 - DOMAIN-SUFFIX,mlb-content.storage.googleapis.com
-- DOMAIN-SUFFIX,connextra.com
-- DOMAIN-SUFFIX,doubleclick.net
-- DOMAIN-SUFFIX,googlesyndication.com
-- DOMAIN-SUFFIX,doubleclick.net
-- DOMAIN-SUFFIX,scorecardresearch.com
-- DOMAIN-SUFFIX,bamgrid.com
-- DOMAIN-SUFFIX,dpm.demdex.net
-- DOMAIN-SUFFIX,privacymanager.io
-- DOMAIN-SUFFIX,scorecardresearch.com
-- DOMAIN-SUFFIX,mgln.ai
-- DOMAIN-SUFFIX,adtidy.org
-- DOMAIN,time.cloudflare.com
+- DOMAIN-SUFFIX,geolocation.onetrust.com
